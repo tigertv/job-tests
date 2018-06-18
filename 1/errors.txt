@@ -1,0 +1,6 @@
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='m.skybet.com', port=443): Max retries exceeded with url: /football/world-cup-2018/event/16742642 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb74df52c>: Failed to establish a new connection: [Errno 110] Connection timed out',)))
+
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='m.skybet.com', port=443): Max retries exceeded with url: /football/world-cup-2018/event/16742642 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb74615ac>: Failed to establish a new connection: [Errno 110] Connection timed out',)))
+
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='m.skybet.com', port=443): Max retries exceeded with url: /football/world-cup-2018/event/16742642 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0xb75265ac>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+
